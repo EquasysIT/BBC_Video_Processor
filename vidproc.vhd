@@ -40,7 +40,7 @@
 --
 -- (C) 2011 Mike Stirling
 --
--- Changes to create replacement Video Processor Chip
+-- Changes to create replacement Video Processor Chip using a Godil Module
 -- June 2021 - Andy Burgess
 
 

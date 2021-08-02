@@ -1,3 +1,5 @@
+#Uses a Godil Module
+#
 #NET "GND"			LOC = "P23" ;									# Pin 1
 NET "A0"  			LOC = "P33" | IOSTANDARD = LVCMOS33 ; 	# Pin 2
 NET "nCS"	  		LOC = "P32" | IOSTANDARD = LVCMOS33 ;	# Pin 3
