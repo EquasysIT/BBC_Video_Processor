@@ -203,7 +203,7 @@ begin
 	-- Fetch control
 	process(CLK16)
 	begin
-		if falling_edge(CLK16) then
+		if rising_edge(CLK16) then
 		  if clken_pixel = '1' then
 			if clken_fetch = '1' then
 				-- Fetch next byte from memory into shift register
